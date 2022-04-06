@@ -8,8 +8,7 @@ Esse microsserviço tem o objetivo de ser um hub de transações entre os bancos
 
 ## Sobre o repositório
 
-Esse repositório contém o código-fonte ministrado na aula Intensivão com Nest.js: https://www.youtube.com/watch?v=ucHzhctPlbA
-
+Esse repositório contém o código-fonte ministrado na aula Imersão: 01 Full Cycle, estudo de caso e microsserviços https://www.youtube.com/watch?v=3Zzky3X3NH4&t=186s
 ## Como executar
 
 Utilizamos Docker para que todos os serviços que utilizaremos fiquem disponíveis.
